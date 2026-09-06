@@ -46,7 +46,6 @@ Curated Zone
 ├── customer_curated
 └── machine_learning_curated
 
-
 Privacy Requirement
 
 Only customers who agreed to share their data for research are included in trusted and curated datasets used for machine learning.
