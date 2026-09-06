@@ -1,0 +1,2 @@
+-- STEDI Human Balance Analytics
+-- Customer Landing Glue Table DDL
