@@ -1,0 +1,2 @@
+-- STEDI Human Balance Analytics
+-- Step Trainer Landing Glue Table DDL
