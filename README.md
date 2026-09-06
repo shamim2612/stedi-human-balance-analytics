@@ -123,6 +123,7 @@ stedi-human-balance-analytics/
 │   └── machine_learning_curated.py
 │
 └── screenshots/
+
 Submission Checklist
  Landing SQL scripts completed
  Customer Landing to Trusted Glue job completed
