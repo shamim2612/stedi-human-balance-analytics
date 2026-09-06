@@ -1,0 +1,2 @@
+-- STEDI Human Balance Analytics
+-- Accelerometer Landing Glue Table DDL
