@@ -27,7 +27,7 @@ DEFAULT_DATA_QUALITY_RULESET = """
 """
 
 # Script generated for node Customer Landing
-CustomerLanding_node1788643240534 = glueContext.create_dynamic_frame.from_catalog(database="stedi", table_name="landing", transformation_ctx="CustomerLanding_node1788643240534")
+CustomerLanding_node1788643240534 = glueContext.create_dynamic_frame.from_catalog(database="stedi", table_name="customer_landing", transformation_ctx="CustomerLanding_node1788643240534")
 
 # Script generated for node Share With Research
 SqlQuery1636 = '''
